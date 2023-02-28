@@ -1,0 +1,9 @@
+{
+  "name": "78u",
+  "type": "package",
+  "blockId": "4ZLCWdbtI5l1U28Amqu28",
+  "source": {
+    "https": "https://github.com/Digambaran/78u",
+    "ssh": "git@github.com:Digambaran/78u.git"
+  }
+}
